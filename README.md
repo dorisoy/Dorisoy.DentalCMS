@@ -2,6 +2,23 @@
 
   一款专为私人牙科诊所和商业牙科连锁机构设计集多功能于一体的综合牙科业务管理平台。涵盖了患者信息管理、医生资源管理、药房库存管理（包括产品类别、产品信息、销售开单、发票管理和报表生成）、治疗流程管理（如牙周筛查、患者列表和报表）、处方信息管理、费用科目及凭证管理（包括科目管理、凭证信息、凭证列表和报表），设备管理、分析决策、营销运营、以及系统级的临床信息管理、用户管理和权限控制等功能，以实现数字化赋能的业务落地，并提升业务的运营效率和竞争力。
 
+## 屏幕
+
+<img src="https://github.com/dorisoy/Dorisoy.DentalCMS/blob/main/Screen/1%20(1).png" />
+
+<img src="https://github.com/dorisoy/Dorisoy.DentalCMS/blob/main/Screen/1%20(2).png" />
+
+<img src="https://github.com/dorisoy/Dorisoy.DentalCMS/blob/main/Screen/1%20(3).png" />
+
+<img src="https://github.com/dorisoy/Dorisoy.DentalCMS/blob/main/Screen/1%20(4).png" />
+
+<img src="https://github.com/dorisoy/Dorisoy.DentalCMS/blob/main/Screen/1%20(5).png" />
+
+<img src="https://github.com/dorisoy/Dorisoy.DentalCMS/blob/main/Screen/1%20(6).png" />
+
+<img src="https://github.com/dorisoy/Dorisoy.DentalCMS/blob/main/Screen/1%20(7).png" />
+
+
 ##  功能需求
 1.1 患者管理
     - 患者信息：记录患者的基本信息（如姓名、年龄、联系方式、病史等），支持添加、编辑和查询患者资料。
